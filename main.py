@@ -15,7 +15,7 @@ def vida():
 
 def listas():
 
-    listas.Chinitas = ["chaeyoung", "lisa", "son chaeyoung", "yeji", "ryujin", "jennie", "jisoo", "nayeon", "dahyun", "chaeryeong"]
+    listas.Chinitas = ["chaeyoung", "lisa", "son chaeyoung", "yeji", "ryujin", "jennie", "jisoo", "nayeon", "dahyun", "chaeryeong", "chuu"]
 
     listas.Bandas = ["blackpink", "twice", "itzy"]
 
